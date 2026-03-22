@@ -5,6 +5,8 @@ Esta simulación representa la plataforma Piper Alpha y recrea de manera interac
 
 La simulación se basa en el artículo de Fiona Macleod CEng FIChemE y Stephen Richardson, y en el informe de la investigación pública de W.D. Cullen (1990), que documenta los eventos ocurridos el 6 de julio de 1988.  
 
+Artículo base incluyendo PFD y Plot Plant: https://www.thechemicalengineer.com/features/piper-alpha-the-disaster-in-detail/
+
 ---
 
 ## Escenas y Estructura
